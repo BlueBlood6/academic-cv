@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 田翰凌
+title: 田 翰 凌
 
-# Name pronunciation (optional)
-name_pronunciation: Hanling Tian
+# # Name pronunciation (optional)
+# name_pronunciation: Hanling Tian
 
 # Full name (for SEO)
 first_name: Hanling
@@ -11,7 +11,7 @@ last_name: Tian
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖥️
 
 # Is this the primary user of the site?
 superuser: true
@@ -92,6 +92,24 @@ work:
   #     - Migrated infrastructure to a new data center
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: National Scholarship (0.2%)
+    url: ''
+    date: '2020-12-14'
+    awarder: Ministry of Education, the People’s Republic of China
+    icon: ''
+    # summary: |
+    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Outstanding Graduate
+    url: ''
+    date: '2023-06-30'
+    awarder: Xi’an Jiaotong Univeristy
+    icon: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -135,23 +153,7 @@ skills:
 #   - name: Portuguese
 #     percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: National Scholarship (0.2%)
-    url: ''
-    date: '2020-12-14'
-    awarder: Ministry of Education, the People’s Republic of China
-    icon: ''
-    # summary: |
-    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Outstanding Graduate
-    url: ''
-    date: '2023-06-30'
-    awarder: Xi’an Jiaotong Univeristy
-    icon: ''
+
   #   summary: |
   #     Learned:
   #     - Synthesize your own blockchain solutions
