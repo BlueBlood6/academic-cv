@@ -92,7 +92,7 @@ work:
   #     - Migrated infrastructure to a new data center
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -113,33 +113,33 @@ awards:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: devicon/python
-      - name: Pytorch
-        description: ''
-        percent: 95
-        icon: devicon/pytorch
-      # - name: PyTorch
-      #   description: ''
-      #   percent: 40
-      #   icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Badminton
-        description: ''
-        percent: 60
-        icon: badminton
-      - name: Calligraphy
-        description: ''
-        percent: 100
-        icon: brush
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 90
+#         icon: devicon/python
+#       - name: Pytorch
+#         description: ''
+#         percent: 95
+#         icon: devicon/pytorch
+#       # - name: PyTorch
+#       #   description: ''
+#       #   percent: 40
+#       #   icon: devicon/pytorch
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Badminton
+#         description: ''
+#         percent: 60
+#         icon: badminton
+#       - name: Calligraphy
+#         description: ''
+#         percent: 100
+#         icon: brush
       # - name: Photography
       #   description: ''
       #   percent: 80
