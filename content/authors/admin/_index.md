@@ -49,7 +49,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Bachelor of Engineering: Automation
+  - area: Bachelor of Engineering (Automation)
     institution: Xi'an Jiaotong University
     date_start: 2019-09
     date_end: 2023-06
