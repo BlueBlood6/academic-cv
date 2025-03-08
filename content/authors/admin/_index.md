@@ -42,8 +42,8 @@ profiles:
 education:
   - area: Master Student in Automation Science and Engineering
     institution: Shanghai Jiao Tong University
-    date_start: 2023-09
-    date_end: 2025-03
+    date_start: 2023-09-01
+    date_end: 2025-03-31
     summary: |
       Supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin).
     # button:
@@ -51,8 +51,8 @@ education:
     #   url: 'https://example.com'
   - area: Bachelor of Engineering (Automation)
     institution: Xi'an Jiaotong University
-    date_start: 2019-09
-    date_end: 2023-06
+    date_start: 2019-09-01
+    date_end: 2023-06-30
     summary: |
       GPA: 4.11/4.3, Average Grade: 94.15/100
 
@@ -76,8 +76,8 @@ work:
     company_name: Microsoft Research Asia (MSRA)
     company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
     company_logo: ''
-    date_start: 2022-07
-    date_end: 2023-06
+    date_start: 2022-07-26
+    date_end: 2023-06-30
     summary: |2-
       Intern of Data, Knowledge, and Intelligence Group, mentored by senior researcher [Shizhao Sun](https://www.microsoft.com/en-us/research/people/shizsu/). 
       Responsibilities include pre-training of graphic layout generation and design image generation with text constrains.
@@ -142,14 +142,14 @@ skills:
 awards:
   - title: National Scholarship (0.2%)
     url: ''
-    date: '2020'
+    date: '2020-12-14'
     awarder: Ministry of Education, the People’s Republic of China
     icon: ''
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Outstanding Graduate
     url: ''
-    date: '2023'
+    date: '2023-06-30'
     awarder: Xi’an Jiaotong Univeristy
     icon: ''
   #   summary: |
