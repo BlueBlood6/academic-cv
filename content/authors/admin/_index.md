@@ -104,7 +104,7 @@ skills:
         icon: devicon/python
       - name: Pytorch
         description: ''
-        percent:95
+        percent: 95
         icon: devicon/pytorch
       # - name: PyTorch
       #   description: ''
