@@ -73,6 +73,15 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research intern
+    company_name: Ant Group
+    company_url: https://www.antgroup.com/
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 2025-08-30
+    summary: |2-
+      Intern of Security and Risk Management Group, mentored by senior researcher [Changhua Meng](https://openreview.net/profile?id=~Changhua_Meng1/), also worked closely with researcher [Zeyang Sha](https://openreview.net/profile?id=~Zeyang_Sha1/). 
+      Responsibilities include agent safety alignment via reinforcement learning and attacks to agent memory systems. And I am 
+  - position: Research intern
     company_name: Microsoft Research Asia (MSRA)
     company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
     company_logo: ''
@@ -169,4 +178,4 @@ awards:
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Currently, I am a second-year master student at Shanghai Jiao Tong University, studying under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research interests include Machine Learning, Memorization, Trustworthy AI and Generative models.
+Currently, I am a final-year master student at Shanghai Jiao Tong University, studying under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research interests include Machine Learning, Trustworthy AI, Generative models and LLM Agent Safety. And I am trying to pursue a 26 fall PhD offer.
