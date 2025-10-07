@@ -80,7 +80,7 @@ work:
     date_end: 2025-08-30
     summary: |2-
       Intern of Security and Risk Management Group, mentored by senior researcher [Changhua Meng](https://openreview.net/profile?id=~Changhua_Meng1), also worked closely with researcher [Zeyang Sha](https://openreview.net/profile?id=~Zeyang_Sha1). 
-      Responsibilities include agent safety alignment via reinforcement learning and attacks to agent memory systems. And I am 
+      Responsibilities include agent safety alignment via reinforcement learning and attacks to agent memory systems.
   - position: Research intern
     company_name: Microsoft Research Asia (MSRA)
     company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
