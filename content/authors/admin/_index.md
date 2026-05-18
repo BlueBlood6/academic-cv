@@ -78,9 +78,8 @@ work:
     company_logo: ''
     date_start: 2025-05-01
     date_end: 2025-08-30
-    summary: |2-
-      Intern of Security and Risk Management Group, mentored by senior researcher [Changhua Meng](https://openreview.net/profile?id=~Changhua_Meng1), also worked closely with researcher [Zeyang Sha](https://openreview.net/profile?id=~Zeyang_Sha1). 
-      Responsibilities include agent safety alignment via reinforcement learning and attacks to agent memory systems.
+    summary: |2- 
+      Responsibilities include studying reliability issues in interactive systems with long-term context and multi-turn usage patterns and building controlled evaluations and explored policy-guided methods for reliability improvement.
   - position: Research intern
     company_name: Microsoft Research Asia (MSRA)
     company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
@@ -88,8 +87,8 @@ work:
     date_start: 2022-07-26
     date_end: 2023-06-30
     summary: |2-
-      Intern of Data, Knowledge, and Intelligence Group, mentored by senior researcher [Shizhao Sun](https://www.microsoft.com/en-us/research/people/shizsu/). 
-      Responsibilities include pre-training of graphic layout generation and design image generation with text constrains.
+      Research Intern of Data, Knowledge, and Intelligence Group, mentored by senior researcher [Shizhao Sun](https://www.microsoft.com/en-us/research/people/shizsu/). 
+      Responsibilities include processing structured graphic design data, converting visual layout elements into token sequences, preparing presentation-style design datasets and studying design image creation with text descriptions.
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -178,5 +177,5 @@ awards:
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Currently, I am a final-year master student at Shanghai Jiao Tong University, studying under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research interests include Machine Learning, Trustworthy AI, Generative models and LLM Agent Safety. <br>
+Currently, I am a final-year master student at Shanghai Jiao Tong University, studying under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research interests include information retention analysis, reliability evaluation, and computational analysis. <br>
 **I'm actively seeking phd positions starting in fall 2026.**
