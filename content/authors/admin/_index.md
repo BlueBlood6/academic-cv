@@ -40,7 +40,7 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - area: Master Student in Automation Science and Engineering
+  - area: Master Student in Control Science and Engineering
     institution: Shanghai Jiao Tong University
     date_start: 2023-09-01
     date_end: 2025-03-31
