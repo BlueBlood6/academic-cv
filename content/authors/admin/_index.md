@@ -106,11 +106,11 @@ education:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: National Scholarship (0.2%)
-    url: ''
-    date: '2020-12-14'
-    awarder: Ministry of Education, the People’s Republic of China
-    icon: ''
+  # - title: National Scholarship (0.2%)
+  #   url: ''
+  #   date: '2020-12-14'
+  #   awarder: Ministry of Education, the People’s Republic of China
+  #   icon: ''
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Outstanding Graduate
