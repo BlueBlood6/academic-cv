@@ -71,24 +71,24 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Research intern
-    company_name: Ant Group
-    company_url: https://www.antgroup.com/
-    company_logo: ''
-    date_start: 2025-05-01
-    date_end: 2025-08-30
-    summary: |2- 
-      Responsibilities include studying reliability issues in interactive systems with long-term context and multi-turn usage patterns and building controlled evaluations and explored policy-guided methods for reliability improvement.
-  - position: Research intern
-    company_name: Microsoft Research Asia (MSRA)
-    company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
-    company_logo: ''
-    date_start: 2022-07-26
-    date_end: 2023-06-30
-    summary: |2-
-      Research Intern of Data, Knowledge, and Intelligence Group, mentored by senior researcher [Shizhao Sun](https://www.microsoft.com/en-us/research/people/shizsu/). 
-      Responsibilities include processing structured graphic design data, converting visual layout elements into token sequences, preparing presentation-style design datasets and studying design image creation with text descriptions.
+# work:
+  # - position: Research intern
+  #   company_name: Ant Group
+  #   company_url: https://www.antgroup.com/
+  #   company_logo: ''
+  #   date_start: 2025-05-01
+  #   date_end: 2025-08-30
+  #   summary: |2- 
+  #     Responsibilities include studying reliability issues in interactive systems with long-term context and multi-turn usage patterns and building controlled evaluations and explored policy-guided methods for reliability improvement.
+  # - position: Research intern
+  #   company_name: Microsoft Research Asia (MSRA)
+  #   company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
+  #   company_logo: ''
+  #   date_start: 2022-07-26
+  #   date_end: 2023-06-30
+  #   summary: |2-
+  #     Research Intern of Data, Knowledge, and Intelligence Group, mentored by senior researcher [Shizhao Sun](https://www.microsoft.com/en-us/research/people/shizsu/). 
+  #     Responsibilities include processing structured graphic design data, converting visual layout elements into token sequences, preparing presentation-style design datasets and studying design image creation with text descriptions.
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
