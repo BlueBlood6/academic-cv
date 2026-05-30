@@ -45,7 +45,7 @@ education:
     date_start: 2023-09-01
     date_end: 2025-03-31
     summary: |
-      Supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin).
+      Supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/En/xiaolin).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -177,5 +177,5 @@ awards:
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Currently, I am a final-year master student at Shanghai Jiao Tong University, studying under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research interests include information retention analysis, reliability evaluation, and computational analysis. <br>
+Currently, I am a final-year master student at Shanghai Jiao Tong University, studying under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/En/xiaolin). My research interests include scientific computing, optimization and computational evaluation. <br>
 **I'm actively seeking phd positions starting in fall 2026.**
